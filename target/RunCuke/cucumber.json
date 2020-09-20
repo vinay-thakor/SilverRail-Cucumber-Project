@@ -1,0 +1,92 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 18881903300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User can search UK office address successfully",
+        "description": "",
+        "id": "united-kingdom-office-address-feature;user-can-search-uk-office-address-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 76100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1227831400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on Home Page",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2615554600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on contact us link",
+            "match": {
+              "location": "MyStepdefs.iClickOnContactUsLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 154640900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on our office",
+            "match": {
+              "location": "MyStepdefs.iClickOnOurOffice()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 27800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I should see UK office address",
+            "match": {
+              "location": "MyStepdefs.iShouldSeeUKOfficeAddress()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "United Kingdom office address feature",
+    "description": "\r\nCustomer  can navigate to UK office successfully",
+    "id": "united-kingdom-office-address-feature",
+    "keyword": "Feature",
+    "uri": "src/test/java/co/silverrailtech/resources/featurefile/home.feature"
+  }
+]

@@ -1,0 +1,13 @@
+2020-09-19 22:09:601 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-09-19 22:09:380 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-09-19 22:09:919 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-09-19 22:09:679 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-09-19 22:09:519 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-09-19 22:09:900 INFO       HomePage :28 - Clicking on contact us tab : [[ChromeDriver: chrome on WINDOWS (d0748ad88faded4f4bbe8b5204ffb4d1)] -> xpath: //li[@id='menu-item-5275']//a[@class='menu-item-link js-smooth-scroll'][contains(text(),'Contact Us')]]
+2020-09-19 22:09:662 INFO       HomePage :34 - Clicking on our office tab : [[ChromeDriver: chrome on WINDOWS (d0748ad88faded4f4bbe8b5204ffb4d1)] -> xpath: //li[@id='menu-item-5275']//a[@class='menu-item-link js-smooth-scroll'][contains(text(),'Contact Us')]]
+2020-09-19 22:09:504 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-09-19 22:09:894 INFO       HomePage :29 - Clicking on contact us tab : [[ChromeDriver: chrome on WINDOWS (919ec8818c1aaa89e5eb4f98bf8fac65)] -> xpath: //li[@id='menu-item-5275']//a[@class='menu-item-link js-smooth-scroll'][contains(text(),'Contact Us')]]
+2020-09-19 22:09:28 INFO       HomePage :35 - Clicking on our office tab : [[ChromeDriver: chrome on WINDOWS (919ec8818c1aaa89e5eb4f98bf8fac65)] -> xpath: //li[@id='menu-item-5275']//a[@class='menu-item-link js-smooth-scroll'][contains(text(),'Contact Us')]]
+2020-09-19 23:09:375 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-09-19 23:09:263 INFO       HomePage :29 - Clicking on contact us tab : [[ChromeDriver: chrome on WINDOWS (641236eb0467e5d665a4ee49239f30f1)] -> xpath: //li[@id='menu-item-5275']//a[@class='menu-item-link js-smooth-scroll'][contains(text(),'Contact Us')]]
+2020-09-19 23:09:420 INFO       HomePage :35 - Clicking on our office tab : [[ChromeDriver: chrome on WINDOWS (641236eb0467e5d665a4ee49239f30f1)] -> xpath: //li[@id='menu-item-5275']//a[@class='menu-item-link js-smooth-scroll'][contains(text(),'Contact Us')]]
